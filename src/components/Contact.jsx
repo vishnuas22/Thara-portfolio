@@ -333,7 +333,7 @@ export default function Contact() {
                         marginBottom: '0.45rem',
                       }}
                     >
-                      YOUR EMAIL
+                      Tharalakshmi18@gmail.com
                     </label>
                     <input
                       type="email"
